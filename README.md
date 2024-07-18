@@ -19,8 +19,6 @@
 [Github Link](https://github.com/Carsell/Corona-Test-Prediction-Using-KNN-and-Decision-Tree)
 Machine Learning models for predicting the likelihood of Corona presence based on a set of diverse features. The dataset undergoes meticulous loading and preprocessing to handle missing values and categorical variables effectively.
 
-![Covid Prediction](https://github.com/user-attachments/assets/2848ec72-ef40-478e-82d3-5c792be14c9d)
-
 **Predicting College Enrollment with Python**
 Developed a machine learning model achieving 90% accuracy in predicting student enrolment using historical data.
 [Github Link](https://github.com/Carsell/Predicting-College-Enrollment-with-Python)
